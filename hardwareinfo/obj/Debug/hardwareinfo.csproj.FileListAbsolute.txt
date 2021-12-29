@@ -1,0 +1,10 @@
+C:\Users\turel\source\repos\hardwareinfo\hardwareinfo\bin\Debug\hardwareinfo.exe.config
+C:\Users\turel\source\repos\hardwareinfo\hardwareinfo\bin\Debug\hardwareinfo.exe
+C:\Users\turel\source\repos\hardwareinfo\hardwareinfo\bin\Debug\hardwareinfo.pdb
+C:\Users\turel\source\repos\hardwareinfo\hardwareinfo\obj\Debug\hardwareinfo.csproj.AssemblyReference.cache
+C:\Users\turel\source\repos\hardwareinfo\hardwareinfo\obj\Debug\hardwareinfo.Form1.resources
+C:\Users\turel\source\repos\hardwareinfo\hardwareinfo\obj\Debug\hardwareinfo.Properties.Resources.resources
+C:\Users\turel\source\repos\hardwareinfo\hardwareinfo\obj\Debug\hardwareinfo.csproj.GenerateResource.cache
+C:\Users\turel\source\repos\hardwareinfo\hardwareinfo\obj\Debug\hardwareinfo.csproj.CoreCompileInputs.cache
+C:\Users\turel\source\repos\hardwareinfo\hardwareinfo\obj\Debug\hardwareinfo.exe
+C:\Users\turel\source\repos\hardwareinfo\hardwareinfo\obj\Debug\hardwareinfo.pdb
